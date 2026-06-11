@@ -10,6 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+My system covers student reviews and unofficial advice about UTEP Computer Science courses and professors. This knowledge is valuable because official course descriptions usually explain topics and prerequisites, but they do not show what students actually experience, such as teaching style, workload, grading difficulty, exam expectations, or how helpful a professor is. This information is hard to find through official channels because it is scattered across professor review pages, Reddit threads, and informal student discussions instead of being organized in one searchable place.
 
 ---
 
@@ -18,19 +19,26 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #  | Source                                                                                  | Type                             | URL or file path                                                                               |
+| -- | --------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 1  | Daniel Mejia Rate My Professors page                                                    | UTEP CS professor review page    | https://www.ratemyprofessors.com/professor/2665662                                             |
+| 2  | Kuldeep Singh Rate My Professors page                                                   | UTEP CS professor review page    | https://www.ratemyprofessors.com/professor/2774250                                             |
+| 3  | Monika Akbar Rate My Professors page                                                    | UTEP CS professor review page    | https://www.ratemyprofessors.com/professor/1933020                                             |
+| 4  | Ann Gates Rate My Professors page                                                       | UTEP CS professor review page    | https://www.ratemyprofessors.com/professor/225910                                              |
+| 5  | Christoph Lauter Rate My Professors page                                                | UTEP CS professor review page    | https://www.ratemyprofessors.com/professor/2989211                                             |
+| 6  | Reddit thread: “CS Degree: is it worth it?”                                             | UTEP CS student advice thread    | https://www.reddit.com/r/UTEP/comments/dk5tek/cs_degree_is_it_worth_it/                        |
+| 7  | Reddit thread: “Difficulty getting into the CS program?”                                | UTEP CS student advice thread    | https://www.reddit.com/r/UTEP/comments/1kmp26h/difficulty_getting_into_the_cs_program/         |
+| 8  | Reddit thread: “How difficult is the Computer Science program?”                         | UTEP CS student advice thread    | https://www.reddit.com/r/UTEP/comments/11n2sth/how_difficult_is_the_computer_science_program/  |
+| 9  | Reddit thread: “CS at UTEP or NMSU?”                                                    | UTEP CS comparison/advice thread | https://www.reddit.com/r/UTEP/comments/1abcp64/cs_at_utep_or_nmsu/                             |
+| 10 | Reddit thread: “Looking for Honest Opinions on the MS Computer Science Program at UTEP” | UTEP graduate CS advice thread   | https://www.reddit.com/r/UTEP/comments/1fpxuc6/looking_for_honest_opinions_on_the_ms_computer/ |
 
+These are 5 questions the should be able to answer:
+
+     Which UTEP CS professors are described as helpful by students?
+     Which UTEP CS professors or courses seem difficult based on student reviews?
+     Is the UTEP CS program considered worth it by students?
+     What advice do students give before choosing a UTEP CS professor?
+     What do students say about workload, support, and opportunities in the UTEP CS program?
 ---
 
 ## Chunking Strategy
