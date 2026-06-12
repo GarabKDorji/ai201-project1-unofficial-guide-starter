@@ -21,8 +21,4 @@ Text: I am doing a CS degree at UTEP. I only know one person in CS who has a 4.0
 
 --- COMMENT ---
 Date: 7 years ago
-Text: I am doing a CS degree at UTEP. I only know one person in CS who has a 4.0, just to show you how hard it is. I would say UTEP has a relatively good cs program, they teach you everything you need to know but it really depends on you. Recruiters and companies come all the time and it’s up to you to go and reach out to them. Internships/Jobs are very possible even if UTEP is the 126 ranked cs school in the nation lol. All in all I think it’s a good school for cs and will finish my degree here. Also help is there in the form of professor office hours and TA/peer leader office hours, beyond that I don’t really know any other help UTEP provides
-
---- COMMENT ---
-Date: 7 years ago
 Text: Probably one of the few degrees that is worth it at the moment as far as job security. Do it

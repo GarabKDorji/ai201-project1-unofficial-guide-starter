@@ -154,11 +154,14 @@ def chunk_document(raw: str, doc_name: str) -> list[Chunk]:
         # this a review never mentions which professor it's about and a comment
         # never mentions which question it answers.
         if kind == "COMMENT":
-            # A comment answers the thread's question — give it that question.
-            title = base_meta.get("title", "")
-            header = f"[Thread: {title}]" if title else ""
+            # No header for comments: a comment already states its own topic
+            # ("worth it", "good program", etc.), so it matches queries on its
+            # own content. The thread title adds little and is kept in metadata.
+            header = ""
         else:  # REVIEW
-            # A review's body has the course but not the professor's name.
+            # A review's body has the course but not the professor's name, and
+            # all professors' reviews use the same vocabulary — so the name must
+            # go INTO the text or retrieval can't tell whose review it is.
             prof = base_meta.get("professor", "")
             header = f"[Professor: {prof}]" if prof else ""
 
