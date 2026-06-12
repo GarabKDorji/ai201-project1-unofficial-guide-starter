@@ -55,7 +55,7 @@ Most chunks will be one complete student review or one meaningful Reddit comment
 For short reviews/comments, I will use 0 overlap because each one is already a complete unit. For longer comments that need to be split, I will use about 100 characters of overlap.
 
 **Reasoning:**  
-My documents are mostly short student reviews and Reddit comments, so the natural unit of meaning is one review or one comment. I do not want to combine many reviews into one large chunk because that could mix opinions from different students or professors. A 300–500 character limit keeps chunks focused, while the overlap helps preserve context when a longer comment is split across two chunks.
+My documents are mostly short student reviews and Reddit comments, so the natural unit of meaning is one review or one comment. I do not want to combine many reviews into one large chunk because that could mix opinions from different students or professors. A 300 character limit keeps chunks focused, while the overlap helps preserve context when a longer comment is split across two chunks.
 
 ---
 
@@ -130,7 +130,7 @@ Document Ingestion
         |
         v
 Chunking
-(one review/comment per chunk; split long comments around 300–500 characters with overlap)
+(one review/comment per chunk; split long comments around 300 characters with overlap)
         |
         v
 Embedding + Vector Store

@@ -1,0 +1,65 @@
+Title: Kuldeep Singh — Rate My Professors
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2774250
+Type: Professor reviews
+Professor: Kuldeep Singh
+
+--- REVIEW ---
+Course: CS1310
+Rating: 4/5
+Difficulty: 2/5
+Date: Apr 13th, 2026
+Text: Great first cs class, he will try and respond any questions in class to all students when hes done explaining a topic. TA's not so much, its a free grade, but its also a "Code however you can" class, either way they will help all of you.
+
+
+--- REVIEW ---
+Course: CS1310
+Rating: 4/5
+Difficulty: 2/5
+Date: Apr 13th, 2026
+Text: Not a bad teacher for your first cs class, the TA's give an easy grade but its just an - experiment with code type class for now, which I dont like.
+
+
+--- REVIEW ---
+Course: CS1320
+Rating: 1/5
+Difficulty: 5/5
+Date: Feb 19th, 2026
+Text: Taking him for Elementary Data structures. Honestly, he is unfair and rude. He does go into depth into topics. However, he likes to assume we already know everything, so I would suggest to study the topics beforehand. And be ready for difficult questions during lecture (or he'll see you a fool). Take him only if it's your only option.
+
+--- REVIEW ---
+Course: CS1320
+Rating: 4/5
+Difficulty: 4/5
+Date: Dec 8th, 2025
+Text: He teaches the subject well, you just have to attend lecture. However he can be rude, lockdown browser crashed for many people, unable to finish the exam, he accused us of not knowing how to use lockdown browser. However let us retake it in the end. His Ta's can grade harsh, any small mistake in Free responses are punished harshly. Hard but solid.
+
+--- REVIEW ---
+Course: CS1320
+Rating: 1/5
+Difficulty: 5/5
+Date: Nov 23rd, 2025
+Text: I WILL NEVER TAKE CLASS WITH HIM AGAIN. If you can avoid to take this class with him (which he is the only one who gives it) AVOID IT!!. He evades questions even if they're IMPORTANT. For me the TA's are the only good thing in this course but I've heard that they are rude too.
+
+--- REVIEW ---
+Course: CS1320
+Rating: 1/5
+Difficulty: 4/5
+Date: May 8th, 2025
+Text: He expects you to handwrite C code for the final. He deducts points if it is unable to compile or run effectively. Crazy considering I haven't seen him run code successfully first try when he is lecturing (which is normal but proves my point).
+
+
+--- REVIEW ---
+Course: CS1320
+Rating: 1/5
+Difficulty: 5/5
+Date: May 6th, 2025
+Text: This guy doesn't know how to teach students. He gets pissed of whenever you ask something and doesn't bother answering to his emails. I would not recommend any class with him.
+
+
+--- REVIEW ---
+Course: CS1320
+Rating: 1/5
+Difficulty: 4/5
+Date: Jan 22nd, 2025
+Text: If I'm able, I will never take a class with this man again. He gets angry when students dont understand the material and I only got a good grade b/c I taught myself through the Zybooks. Multiple times throughout the course he also URGED us to drop the class if we didnt want to be there, had other things to do, and/or didnt understand. DISRESPECTFUL

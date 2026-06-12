@@ -1,0 +1,22 @@
+Title: How difficult is the Computer Science program?
+Source: Reddit r/UTEP
+URL: https://www.reddit.com/r/UTEP/comments/11n2sth/how_difficult_is_the_computer_science_program/
+Type: Reddit thread
+
+--- POST ---
+Date: 3 year ago
+Text: I am currently been checking out programming recently. I am doing a free online class on how to program and it’s been pretty interesting so far. I was thinking about pursuing cs at UTEP. I wanted to ask how the classes are. How difficult are the classes? Is there a lot of opportunities? Would you recommend it? Thank you.
+
+--- COMMENT ---
+Date: 3 years ago
+Text: How difficult are the classes? In all academic endeavors at any institution, it is important to constantly remind yourself of a few things. Dumber people have come before you. Dumber people will come after you. Degrees are about perseverance, not intelligence. Not difficulty. Just stamina. Is there a lot of opportunities? For on campus students, I get spammed with event invites, lectures, job expos, etc. All day, every day. If you're an online student though, there's pretty much none. The school does not have a media team to record or stream these impromptu workshops/lectures so forget about "opportunities" as a remote student. If free online courses work for you (and/or if funding is an issue), most of the ivy league schools (MIT, etc.) offer a lot of lectures/materials online.
+
+
+--- COMMENT ---
+Date: 3 years ago
+Text: CS program is pretty cool. I graduated from there but under the masters program. It’s what you make of it. Plenty of ways to learning this on your own. CS degree is usually pretty good for DoD/government type roles. The classes can be challenging. If you have the grades and actually practice what you’re learning then you’ll be able to get opportunities.
+
+
+--- COMMENT ---
+Date: 3 years ago
+Text: CS is under Engineering and one of the most expensive courses at the school. I am taking this and have 1 year left. It’s the best degree to have statistically. Especially with AI coming out jobs will be even easier. Also, UTEP is recognized as one of the best schools for CS. Microsoft and Google are always picking students for internships and jobs.

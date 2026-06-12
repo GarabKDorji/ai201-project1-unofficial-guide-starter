@@ -1,0 +1,47 @@
+Title: Christoph Lauter — Rate My Professors
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2989211
+Type: Professor reviews
+Professor: Christoph Lauter
+
+--- REVIEW ---
+Course: CS3432
+Rating: 3/5 
+Difficulty: 4/5
+Date: Apr 22nd, 2026
+Text: i am currently in his automata 3350 lecture . overall he wants to see everyone succeed in the course so please take advantage of his office hours. you will read a lot in this course but he has pretty engaging lectures. attendance is mandatory
+
+--- REVIEW ---
+Course: CS2401
+Rating: 1/5 
+Difficulty: 5/5
+Date: Apr 5th, 2026
+Text: Very disorganized, doesn't use slides or notes so all lectures are verbal, be prepared to study all topics outside of class, mostly self-taught, his diagrams are difficult to understand, he explains topics in a way that makes everything even more confusing, don't take his class.
+
+--- REVIEW ---
+Course: CS3432
+Rating: 1/5 
+Difficulty: 4/5
+Date: Jan 26th, 2026
+Text: This class is very difficult and largely self-taught. The professor expects students to already understand the material, moves quickly through lectures, and provides no notes or supporting documents. Exams are long and complex. I passed, but learned most of the material independently.
+
+--- REVIEW ---
+Course: CS3432
+Rating: 2/5 
+Difficulty: 4/5
+Date: May 14th, 2025
+Text: He never posted any notes or anything. Very unstructured course, I was confused most of the time. He would teach us something, but not give context as to what we're learning will be used for. His final was way too hard compared to what we had done before. Although I will say sometimes he is nice, and he has good intentions.
+
+--- REVIEW ---
+Course: CS3432
+Rating: 5/5 
+Difficulty: 3/5
+Date: Apr 8th, 2025
+Text: He teaches very well and makes jokes during the lecture. He has you code along with him in class and explains everything very well. The class isn't easy or hard, it's just right. The assembly is the hard part in my opinion. He doesn't use textbooks and doesn't believe in them. He doesn't use slides either so you have to take notes. He my goat
+
+--- REVIEW ---
+Course: CS3432
+Rating: 5/5 
+Difficulty: 2/5
+Date: Dec 13th, 2024
+Text: Dr. Lauter keeps his lectures lighthearted with jokes and writes on the board a lot. He explains concepts well and truly cares about his students. Exams can be very wordy but its just there to trick you and if you study you will be prepared and learn a lot. He can take a while to respond to emails but overall, it's easy to pass if you pass the lab.

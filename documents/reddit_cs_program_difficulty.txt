@@ -1,0 +1,23 @@
+Title: Difficulty getting into the CS program?
+Source: Reddit r/UTEP
+URL: https://www.reddit.com/r/UTEP/comments/1kmp26h/difficulty_getting_into_the_cs_program/
+Type: Reddit thread
+
+--- POST ---
+Date: 1 year ago
+Text: I am currently in Houston going to lonestar and looking to transfer to utep in the spring into the cs program. Wondering how difficult it is to get into the cs program and just the difficulty/ experience of the program overall.
+
+
+--- COMMENT ---
+Date: 1 years ago
+Text: go online and check the catalog and see what classes can be transferred, as far as difficulty none utep has a high acceptance rate
+
+
+--- COMMENT ---
+Date: 1 years ago
+Text: Honestly it’s not too bad. I just finished my first semester and we learned Java and how to control the console the whole 3 months. I’m excited to learn the rest I think there’s courses on python and others.
+
+--- COMMENT ---
+Date: 1 years ago
+Text: Its alright, I think the only requisite was calc 1, which i was able to take alongside cs1. For the difficulty, I think your experience would vary greatly with which professor you take. Very vastly. Ask around or check rate my professor before you sign up for classes. And act quickly because the good professor classes fill up super fast
+

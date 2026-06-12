@@ -1,0 +1,54 @@
+Title: Daniel Mejia — Rate My Professors
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2665662
+Type: Professor reviews
+Professor: Daniel Mejia
+
+--- REVIEW ---
+Course: CS1301
+Rating: 5/5
+Difficulty: 2/5
+Date: Apr 8th, 2026
+Text: my favorite proffessor so far. He doesn't give slides but he records the classes so very helpful when you need a little bit refresher. Homework every week, but my ta's were so helpful too
+
+--- REVIEW ---
+Course: CS2302
+Rating: 5/5
+Difficulty: 4/5
+Date: Mar 26th, 2026
+Text: I had CS1 and CS3 with him. My first impression was not great, but after getting to know him better, he has become one of my top CS instructors. He always tries to deliver engaging lectures and puts effort so that everyone can understand the topics. Exams are difficult but not overwhelming. You should take one of his classes at least once.
+
+--- REVIEW ---
+Course: CS1301
+Rating: 5/5
+Difficulty: 3/5
+Date: May 30th, 2025
+Text: Dr. Mejia's lectures were very easy to understand. Topics are complicated to learn, but Dr. Mejia does his best to make sure we understand the material. The course is work heavy- weekly HW and quizzes. Time-consuming HWs. He gives extra credit on exams though. Quizzes were harder than the exams. Mandatory attendance. Learned a lot from the class!
+
+--- REVIEW ---
+Course: CS2302
+Rating: 5/5
+Difficulty: 2/5
+Date: Aug 14th, 2025
+Text: I took CS1 (CS 1301) and Data Structures (CS 2302) with him. His lectures are always engaging and live. He actually teaches you and gives you intuition for basic CS concepts. However, he is a bit snappy at times, and some exams can be difficult. Nonetheless, he doesn't give many surprises and tells you (in general) what to expect of the exams.
+
+--- REVIEW ---
+Course: CS3331
+Rating: 4/5
+Difficulty: 3/5
+Date: Mar 22nd, 2024
+Text: The amount of homework/assignments/quizzes he gives in this class does not come close to any other class/professor I've taken. You will write code day and night. His lectures are really good and he talked very clearly which is something very good when compared to other UTEP CS professors.
+
+--- REVIEW ---
+Course: CS3331
+Rating: 1/5
+Difficulty: 4/5
+Date: May 17th, 2023
+Text: The professor's approach was you learn by being pushed. He lectured for only half of the classes. The rest, he chatted with the TA's. Attendance was mandatory. There is a very time consuming semester long project which turns in to a group project. I learned a lot though mostly on my own. The final is optional. Not as good as the reviews say.
+
+--- REVIEW ---
+Course: CS3331
+Rating: 5/5
+Difficulty: 3/5
+Date: May 11th, 2023
+Text: Great Professor and a great class, but be ready to do a lot of homework for your project and don't fall behind!

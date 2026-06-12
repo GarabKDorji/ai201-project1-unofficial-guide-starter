@@ -1,0 +1,54 @@
+Title: Monika Akbar — Rate My Professors
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/1933020
+Type: Professor reviews
+Professor: Monika Akbar
+
+--- REVIEW ---
+Course: CS2401
+Rating: 5/5
+Difficulty: 4/5
+Date: Apr 22nd, 2026
+Text: I bit quite and hard to hear but once i started sitting in the front everything was alot easier for me haha. Very sweet if you dont hesitate to ask questions and wants to help you succeed. Awesome professor overall and great person.
+
+--- REVIEW ---
+Course: CS2401
+Rating: 4/5
+Difficulty: 2/5
+Date: Aug 14th, 2025
+Text: I took Elem. D.S. and Algorithms (CS 2401) with her. She is a caring professor, but she lectures with powerpoint and is quiet. There were short pop quizzes, but they weren't stressful. If you read the OpenDSA textbook and understand it all (even before the class), this course and lab will be easy for you.
+
+--- REVIEW ---
+Course: CS2401
+Rating: 1/5
+Difficulty: 4/5
+Date: May 1st, 2025
+Text: You can't miss her class, she has iclicker and does regular quizzes during class. Be it the last 10 minutes too. She has 3 exams and she posts previous exam questions/answers but they aren't similar to what's on the exams. The exams have about 2 questions that count for about 50% of the total exam grade, they're coding segments.
+
+--- REVIEW ---
+Course: CS2401
+Rating: 1/5
+Difficulty: 4/5
+Date: Jan 23rd, 2025
+Text: Akbar fails to communicate effectively what she is talking about ,is very unmotivating, hard to hear and often only covers what is in her slides. Additionally she spends too long on the easier-to-grasp topics but completely brushes over the harder material. The final exam passing grade had to be brought down from a 70% to a 54 by her.
+
+--- REVIEW ---
+Course: CS2401
+Rating: 1/5
+Difficulty: 4/5
+Date: Jan 10th, 2025
+Text: Couldn't hear the lectures very much, kinda all over the place IMO but the actual course was nicely structured and she provided many resources. Random pop quizzes or class activities here and there for attendance. Verryyyy generous grading, definitely prioritizes understanding, and is super accessible out of class.
+
+--- REVIEW ---
+Course: CS1301
+Rating: 5/5
+Difficulty: 2/5
+Date: Nov 13th, 2024
+Text: Ms. Akbar is an excellent teacher who explains concepts clearly and provides free textbooks and resources for further practice outside of class. She's very organized with Blackboard, uploading lecture materials, slides, and important task dates. Uses surprise quizzes to reinforce learning, and attendance is mandatory for success in her class.
+
+--- REVIEW ---
+Course: CS1320
+Rating: 4/5
+Difficulty: 3/5
+Date: Jun 6th, 2024
+Text: Her lectures were a bit boring but good. She gave out optional homework so we could practice. The exams were the perfect difficulty. The labs were really good and my favorite part of the class. She is very understanding.

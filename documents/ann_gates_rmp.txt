@@ -1,0 +1,41 @@
+Title: Ann Gates — Rate My Professors
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/225910
+Type: Professor reviews
+Professor: Ann Gates
+
+--- REVIEW ---
+Course: CS4310
+Rating: 5/5 
+Difficulty: 3/5
+Date: Aug 16th, 2018
+Text: Just show up to class. There is no math involved. It's partial vocabulary, designing templates, low fidelity prototypes, teamwork and basically how to go about developing Software before even type a character of code. You do not even need to know any programming language to get past this course. Learned a lot and made things simple. Just show up.
+
+--- REVIEW ---
+Course: CS4310
+Rating: 3/5 
+Difficulty: 5/5
+Date: Apr 25th, 2017
+Text: Teaches part 1 of the CS capstone class. Lots of reports due, but the guidance team is unclear about what they expect in the reports. Classes are usually spent lecturing about SE concepts from slides and then working in teams. Make sure you fully understand the system from the very beginning. Send memos to clients if anything is unclear! For reals
+
+--- REVIEW ---
+Course: CS4310
+Rating: 1/5 
+Difficulty: 3/5
+Date: Aug 31st, 2016
+Text: No technical contents and nothing to learn. Expect lots of project/team work.
+
+--- REVIEW ---
+Course: CS4310
+Rating: 4.5/5 
+Difficulty: 4/5
+Date: Sep 29th, 2005
+Text: Great professor, really cares about students and about the class. Highly recommended.
+
+
+--- REVIEW ---
+Course: CS4390
+Rating: 4.5/5 
+Difficulty: 3/5
+Date: Jul 1st, 2003
+Text: Great professor, really cares about students and about the class. Highly recommended.

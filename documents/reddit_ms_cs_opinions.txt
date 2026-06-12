@@ -1,0 +1,40 @@
+Title: Looking for Honest Opinions on the MS Computer Science Program at UTEP
+Source: Reddit r/UTEP
+URL: https://www.reddit.com/r/UTEP/comments/1fpxuc6/looking_for_honest_opinions_on_the_ms_computer/
+Type: Reddit thread
+
+--- POST ---
+Date: 2 year ago
+Text: Hi everyone!
+I’m currently in the process of applying to the MS in Computer Science program at UTEP (University of Texas at El Paso), and I’m really curious to hear from any immediate past or current students about their experiences. I’ve got a few specific questions I’d love to get your honest opinions on:
+How would you rate the faculty? Are they generally kind and helpful, or do you find them to be harsh or difficult to approach? I’m coming from a background where advisors and PIs can be extremely tough, sometimes even demoralizing, so I’m hoping for some insight into the environment at UTEP.
+How challenging is the program? I’d love to hear how difficult the coursework is and whether you felt supported throughout the program. Were the professors approachable if you needed help?
+Would you recommend continuing into the PhD program? For those who’ve either transitioned into the PhD program or thought about it, would you recommend it? How does the CS department support students who are interested in continuing their academic careers?
+What are the career prospects like? Are there good career opportunities after completing the program? Did you feel like the university provided solid support for job placement, networking, or career guidance?
+Internship opportunities Was it easy to access internships through UTEP’s connections? How did the school help you find internships or industry experience?
+I’ve already started my application, but I want to make sure I’m making the right decision and that UTEP will be a good fit. Any advice, opinions, or experiences you can share would be super helpful. Thanks in advance!
+
+--- COMMENT ---
+Date: 2 year ago
+Text: Getting ahead of some negativity surrounding CS degrees that might come: don’t listen to people who tell you not to do it. There is a 4 million software engineer deficit; an estimate of engineers needed currently. That came directly from an Amazon VP I talked to. Regarding the program at UTEP, I know two people who have done it, one works at Tesla, the other is working on his masters, and a third friend of mine who did the BS works for Amazon. I think you’ll be just fine. I’m currently doing my masters at Boulder, but I’m from El Paso. Are there better programs out there? Sure, but if this one feels like the right fit for you, you should be able to succeed in the field regardless. I’d only do PhD if you want to do research specific jobs. For industry, masters is good. Can’t really comment on the rest. Hope this helps.
+
+--- COMMENT ---
+Date: 2 year ago
+Text:  got into Amazon intern with a return offer with just an undergrad degree. If you already have your undergrad don’t waste your time in the masters. I took some master classes and it was genuinely a waste of time. Just leetcode for days if you want to get into fang
+
+--- COMMENT ---
+Date: 2 year ago
+Text: I have an MSCS from UTEP.
+The faculty are great and generally very friendly and approachable. All of them highly encouraged office hours and were always happy to chat. There’s also a few professors who imo are excellent and you should take at least one class with them before graduating: Fuentes, Ward, and Kreinovich
+This is a tricky question since you can pick your classes depending on your interests and skill level. There’s also classes that have undergraduates in them, but usually there’s some extra work or expectations for graduate students. Some classes are more math heavy (Kreinovich does a lot of these), programming heavy (machine learning, computer vision, natural language processing), or more focused on design or projects that do not necessarily involve math or coding (human computer interaction, software requirements engineering). It’s really as challenging as you make it. Whatever path you choose, no classes are unreasonably difficult and you will not lose sleep over your coursework
+Probably not unless you have a good reason to do so, such as if your goal is to work in academia or ML research. If you just want to get a SWE job, stick with the MS degree
+Again, this will be what you make of it. Tons of students get internships at big companies and go on to land full time roles. You can have the same experience if you apply for these roles and make yourself competitive. The SWE job market is not what it used to be a few years ago, but you can definitely still find good jobs. I didn’t find my jobs via networking but I did get one job offer (declined) from an interview at a UTEP job fair
+I did not do internships, but a growing number of companies recruit on campus. My current employer just made UTEP a target school this year. The opportunities are there and growing. Make sure you look out for these events and consider joining organizations like the coding interview club
+
+--- COMMENT ---
+Date: 2 year ago
+Text: These days, I don't recommend getting a CS degree. Heck, I wouldn't have recommended it 20 years ago. From what I've seen in the tech field and heard from people with CS degrees, it's damn hard to get a job in the field. Especially if you're trying to get a job at a FANG company. Now, if you're not picky in where you work, you should have a better chance. You could do IT or database administration for a church or a local business. Although I'm an anthropology graduate, I did an EE graduate class called Image Processing. The class was hard since I had very little coding experience and I certainly don't have the mathematical skills. But the class was still informative, and the processor (an MIT PhD. graduate) was very nice. I now understand better as to why AI has difficulty using 2d pictures for a 3d space, such as self-driving cars.
+
+--- COMMENT ---
+Date: 2 year ago
+Text: You won’t get a job in the field anyways

@@ -1,0 +1,28 @@
+Title: CS Degree: is it worth it?
+Source: Reddit r/UTEP
+URL: https://www.reddit.com/r/UTEP/comments/dk5tek/cs_degree_is_it_worth_it/
+Type: Reddit thread
+
+--- POST ---
+Date: 7 years ago
+Text: Hey everyone, to make a long story, short, I went to UTEP 3 years ago for my freshman year and now my family wants to move back to El Paso and that means I have to finish CS at UTEP, I was taking my Core classes at UTD and noticed that UTD and UTEP's CS degree plan is very different. I think I pretty much covered all my cores and can focus a lot more on CS. The question is to those who are currently or graduated in CS, is it/was it worth it? Does UTEP provide good resources if your stuck on math or a coding problem? I know UTD provides a lot of helpful resources for its CS students, but idk if UTEP provides enough help, I know I had some issues getting help while I was there :/
+
+--- COMMENT ---
+Date: 7 years ago
+Text: Hi there. I've been a programmer for about 20 years and I've got a liberal arts degree in psych (UTEP 97).If you plan on working anywhere in I.T. and you have the opportunity to get a CS degree, do it.It's a guaranteed good job the day after you graduate (but you will need to move out of ELP as there are almost no jobs here for you). It will also make you a much better [whatever] in the I.T. field. And finally, the inevitable impostor syndrome that you will face in your career will be much worse if you don't have a CS degree.
+
+--- COMMENT ---
+Date: 7 years ago
+Text: I'm also a CS major at UTEP. The department has a good program, especially if you're interested in cybersecurity. Frankly, I'm not, but it is pretty much a guaranteed job once you graduate with that concentration (all the money is in cybersecurity atm). They've made a lot of changes at the department over the past few years - help is always available in the labs (8a-8p), and Saturdays, too, which helps if you're working and going to school, because someone is always available. As the other thread mentions, there are a ton of opportunities, with big companies like Google and Microsoft, and many other well known ones, too!
+
+--- COMMENT ---
+Date: 7 years ago
+Text: I am doing a CS degree at UTEP. I only know one person in CS who has a 4.0, just to show you how hard it is. I would say UTEP has a relatively good cs program, they teach you everything you need to know but it really depends on you. Recruiters and companies come all the time and it’s up to you to go and reach out to them. Internships/Jobs are very possible even if UTEP is the 126 ranked cs school in the nation lol. All in all I think it’s a good school for cs and will finish my degree here. Also help is there in the form of professor office hours and TA/peer leader office hours, beyond that I don’t really know any other help UTEP provides
+
+--- COMMENT ---
+Date: 7 years ago
+Text: I am doing a CS degree at UTEP. I only know one person in CS who has a 4.0, just to show you how hard it is. I would say UTEP has a relatively good cs program, they teach you everything you need to know but it really depends on you. Recruiters and companies come all the time and it’s up to you to go and reach out to them. Internships/Jobs are very possible even if UTEP is the 126 ranked cs school in the nation lol. All in all I think it’s a good school for cs and will finish my degree here. Also help is there in the form of professor office hours and TA/peer leader office hours, beyond that I don’t really know any other help UTEP provides
+
+--- COMMENT ---
+Date: 7 years ago
+Text: Probably one of the few degrees that is worth it at the moment as far as job security. Do it
