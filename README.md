@@ -200,8 +200,10 @@ exact review page or Reddit thread it came from.
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
 
-**Summary:** Questions 1–4 performed well. For each professor-related question, all five retrieved chunks were associated with the correct professor, showing the benefit of adding [Professor: ...] directly to the chunk text before embedding. The program-related question also retrieved the appropriate Reddit threads.
+**Summary:** 
+Questions 1–4 performed well. For each professor-related question, all five retrieved chunks were associated with the correct professor, showing the benefit of adding [Professor: ...] directly to the chunk text before embedding. The program-related question also retrieved the appropriate Reddit threads.
 Question 5 revealed the system’s main weakness. The query used the broad term “advice,” but none of the documents contained a section that explicitly presented general advice. As a result, it produced the highest distance scores, ranging from 0.42 to 0.47, and retrieved professor-specific reviews rather than dedicated advice content. Although the generated answer was reasonable, it was inferred from the retrieved reviews instead of being directly supported by explicit advice statements. This limitation is analyzed further below.
+
 ---
 
 ## Failure Case Analysis
@@ -299,3 +301,7 @@ Here is a polished version with clearer wording and stronger reflection on your 
 * **What the AI produced:** It created a version in which the application generated a separate “Retrieved from” panel using the metadata from the retrieved chunks. It also added a string-matching condition that attempted to hide the source panel whenever the model returned the fallback response.
 
 * **What I changed or overrode:** I compared this design with the citation approach used in the RuleBot lab and concluded that the string-matching condition was unnecessarily fragile. It depended on the language model returning the refusal message with exactly the expected wording. I therefore directed the AI to follow the RuleBot approach instead: each retrieved chunk is given a `[Source: ...]` label in the prompt, and the LLM includes the sources it actually uses directly in its response. I removed the separate source panel and the synchronization check. This reduced the amount of application code and made the citations correspond more closely to the evidence used in the generated answer. When the model returns the required fallback response, it naturally provides no source citations.
+
+## Demo Video
+
+[Watch the project demo](https://drive.google.com/file/d/1wCm1My3u3s57x_KLBzDHD94IVb5UCjHI/view)
